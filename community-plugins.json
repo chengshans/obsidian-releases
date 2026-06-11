@@ -32492,5 +32492,12 @@
     "author": "jaewone",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Link to headings, update aliases, and insert content from linked sections.",
     "repo": "jaewone/heading-autolink"
+  },
+  {
+    "id": "ob-epub-reader",
+    "name": "EPUB Reader",
+    "author": "chengshans",
+    "description": "Read EPUB files directly in Obsidian with TOC, highlights, excerpts, and AI integration.",
+    "repo": "chengshans/ob-epub-reader"
   }
 ]
